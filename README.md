@@ -1,3 +1,19 @@
+# Gatsby E-commerce Storefront
+
+> My copy of the open-source **Gatsby E-commerce Theme** by the [Matter Design Team](https://matterdesign.com.au/), used to learn Gatsby, React and CSS Modules. All credit for the original design goes to its authors.
+
+**Stack:** Gatsby · React · CSS Modules · Cypress (e2e tests) · Netlify
+
+**Run locally**
+```bash
+npm install
+npm run develop   # http://localhost:8000
+```
+
+---
+
+## Original theme documentation
+
 ![github-banner](https://user-images.githubusercontent.com/3611928/169144953-49223b21-1e00-4607-971a-4f870468a986.svg)
 
 This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
